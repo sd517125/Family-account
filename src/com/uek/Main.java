@@ -3,6 +3,8 @@ package com.uek;
 public class Main {
 
 	public static void main(String[] args) {
+
+		System.out.println();
 		Person person = new Person();
 		person.setMoney(10000);
 
